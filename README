@@ -12,6 +12,7 @@
 **bootstrap**
 **eslint**
 **prettier**
+**husky with pre-commit-hook**
 
 ## How to run the project
 
