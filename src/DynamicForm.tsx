@@ -31,8 +31,6 @@ export class DynamicComponent extends React.Component<
                     ? e.target.checked
                     : e.target.value,
         });
-
-        console.log(this.state);
     }
 
     handleSubmit(e: MouseEvent) {

@@ -39,6 +39,7 @@ module.exports = {
         historyApiFallback: true,
         open: true,
         compress: true,
+        hot: true,
 
         // Setup output directory
         static: {
