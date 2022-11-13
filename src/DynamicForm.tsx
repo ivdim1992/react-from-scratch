@@ -1,7 +1,7 @@
 import React, { MouseEvent } from 'react';
 import Field from './components/Field';
 import Title from './components/Title';
-import CheckBoxField from './components/Title';
+// import CheckBoxField from './components/Title';
 import './DynamicForm.scss';
 import { IField } from './interfaces/field.interface';
 
