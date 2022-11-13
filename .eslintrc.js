@@ -16,7 +16,7 @@ module.exports = {
             version: 'detect',
         },
     },
-    files: ['src/**/*.js'],
+    // files: ['src/**/*.js'],
     parserOptions: {
         ecmaVersion: 'latest',
         sourceType: 'module',
