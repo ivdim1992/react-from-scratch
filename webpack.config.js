@@ -22,9 +22,10 @@ module.exports = {
                 test: /\.(js|jsx|tsx)$/,
                 exclude: /(node_modules)/,
                 loader: 'ts-loader',
-                // options: {
-                //     presets: ['@babel/env', '@babel/preset-react'],
-                // },
+                options: {
+                    // presets: ['@babel/env', '@babel/preset-react'],
+                    // plugins: [require.resolve('react-refresh/babel')],
+                },
             },
             {
                 test: /\.(css|scss)$/,

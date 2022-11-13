@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    padding: 2rem;
+    margin: 0 auto;
+
+    input,
+    select {
+        margin-bottom: 1rem;
+    }
+
+    .required-star {
+        color: red;
+        margin-right: 0.3rem;
+    }
+}
