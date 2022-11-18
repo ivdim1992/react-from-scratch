@@ -2,17 +2,16 @@
 
 ## Used Technologies
 
-**babel**
-**webpack**
-**webpack-dev-server**
-**typescript**
-**react**
-**react-dom**
-**sass**
-**bootstrap**
-**eslint**
-**prettier**
-**husky with pre-commit-hook**
+-   babel
+-   webpack
+-   webpack-dev-server
+-   typescript
+-   react-dom
+-   sass
+-   bootstrap
+-   eslint
+-   prettier
+-   husky with pre-commit-hook
 
 ## How to run the project
 
