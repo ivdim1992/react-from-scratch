@@ -1,6 +1,4 @@
 # React from scratch and dynamic form
-# Foobar
-
 
 ## Used Technologies
 
